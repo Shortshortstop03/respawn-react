@@ -196,6 +196,21 @@
                 {"label" : "Docked + Engaged", "value" : 10}
             ],
             "default": "0"
+        },
+        {
+            "name": "defense",
+            "type": "number",
+            "default": 0
+        },
+        {
+            "name": "team-play",
+            "type": "number",
+            "default": 0
+        },
+        {
+            "name": "speed",
+            "type": "number",
+            "default": 0
         }
     ]
 }
